@@ -1,0 +1,1 @@
+{"engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"makefun-github-core-clone-01-r5","scripts":{"start":"node main.ts","typecheck":"tsc --noEmit"},"type":"module","version":"1.0.0"}
